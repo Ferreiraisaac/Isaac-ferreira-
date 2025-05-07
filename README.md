@@ -28,7 +28,7 @@
 
 <div>
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://github.com/user-attachments/assets/775c3981-c58e-490a-a228-775f980a8cbe " target="_blank"></a>
+<a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
 
 
 </div>
