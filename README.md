@@ -9,9 +9,8 @@
 <a href="https://github.com/Ferreiraisaac/Isaac-ferreira-/edit/main/README.md ">
 <img heigth="188em" src="https://github-readme-stats.vercel.app/api?username=IsaacFerreira&show_icons=true&bg_color=00000000"/>
 <img heigth="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFerreira&layout=compact&langs_count-16&theme=dracula" />
-<img aling="rigth" alt="Isaac-Eu" src="https://github.com/user-attachments/assets/599cd6ed-e931-4e12-8fb3-388e0a8108d2">
+<img aling="rigth" alt="Isaac-Eu" src="https://github.com/user-attachments/assets/599cd6ed-e931-4e12-8fb3-388e0a8108d2/h1.gft">
 
-![Untitled ‑ Made with FlexClip (2)](https://github.com/user-attachments/assets/599cd6ed-e931-4e12-8fb3-388e0a8108d2)
 
 </div>
 
