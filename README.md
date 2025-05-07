@@ -19,7 +19,7 @@
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="rigth" alt="Eu-Isaac" src="https://github.com/user-attachments/assets/e97dad47-0b3c-4517-a7fb-a17a2868816a">
 <img align="rigth" alt="Eu-Isaac" src="https://github.com/user-attachments/assets/5b6a1068-4f2f-4d9f-a088-eaca948a3e00">
-![Untitled ‑ Made with FlexClip (2)](https://github.com/user-attachments/assets/5b6a1068-4f2f-4d9f-a088-eaca948a3e00)
+
 
 
  "
