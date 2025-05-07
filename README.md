@@ -8,8 +8,9 @@
 
 <a href="https://github.com/Ferreiraisaac/Isaac-ferreira-/edit/main/README.md ">
 <img heigth="188em" src="https://github-readme-stats.vercel.app/api?username=IsaacFerreira&show_icons=true&bg_color=00000000"/>
-
 <img heigth="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFerreira&layout=compact&langs_count-16&theme=dracula" />
+<img aling="rigth" alt="Isaac-Eu" src="https://github.com/user-attachments/assets/d2d3f793-1121-4ab0-9595-ee4642da6a79
+ "
 
 </div>
 
@@ -17,8 +18,6 @@
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-
 </div>
 
 ##
