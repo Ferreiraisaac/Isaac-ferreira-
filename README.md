@@ -1,9 +1,17 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+
+
+
 Óla! Eu sou o Isaac Ferreira
 
 -  Estou cursando superior de tecnologia em análise e desenvolvimento de sistemas, na universidade Anhanguera 
 -  Estudo tambem no site "Curso em video" com o professor Guanabara 
 -  Pronomes: ele/dele
-  <a href="https://git.io/typing-svg">
 <div>
 
 <a href="https://github.com/Ferreiraisaac/Isaac-ferreira-/edit/main/README.md ">
@@ -13,7 +21,7 @@
 
 
 </div>
-
+<img align="right" alt="https://github.com/user-attachments/assets/a060ed2c-5da6-4560-a35e-0e6da857dffb" height="190px" src="./src/study.gif">
 <div style="display: inline_block"><br>
 <img align="center" alt="Isaac.Js" height="38" widht="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
