@@ -13,4 +13,10 @@
 
 </div>
 
-@@
+<div style="display: inline_block"><br>
+<img align="center" alt="Isaac.Js" height="48" src=" ">
+<img align="center" alt="Isaac.Js" height="48" src=" ">
+<img align="center" alt="Isaac.Js" height="48" src=" ">
+</div>
+
+##
