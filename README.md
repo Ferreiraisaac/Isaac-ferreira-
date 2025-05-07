@@ -19,10 +19,6 @@
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 
-
-
- ##
-
 </div>
 
 ##
