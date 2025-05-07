@@ -17,7 +17,8 @@
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="rigth" alt="Eu-Isaac" src="https://github.com/user-attachments/assets/341f65bb-9d95-4492-b3e2-a30ee6cbc143/h1.gif)
+<img align="rigth" alt="Eu-Isaac" src="![Untitled ‑ Made with FlexClip](https://github.com/user-attachments/assets/e97dad47-0b3c-4517-a7fb-a17a2868816a)">
+
  "
 </div>
 
