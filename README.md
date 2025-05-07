@@ -23,7 +23,7 @@
 
 <div>
  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href="ferreiraethen " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white " target=_blank"></a>
 
 
 </div>
