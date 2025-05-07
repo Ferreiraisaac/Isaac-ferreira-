@@ -18,7 +18,6 @@
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img aling="rigth" alt="Isaac.Eu" src="https://github.com/user-attachments/assets/a34bfa47-3003-4b0d-9595-70d1ca9de7/ce-gif">
 </div>
 
 ##
@@ -27,5 +26,5 @@
 <a href="https://discord.com/channels/1336068572929069146/1336068572966813813" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
 
-
+<img aling="rigth" alt="Isaac.Eu" src="https://github.com/user-attachments/assets/a34bfa47-3003-4b0d-9595-70d1ca9de7/ce-gif">
 </div>
