@@ -29,3 +29,10 @@
 <a href=" " tarfet="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <img aling="rigth" alt="Isaac.Eu" src="https://github.com/user-attachments/assets/a060ed2c-5da6-4560-a35e-0e6da857dffb">
 </div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
