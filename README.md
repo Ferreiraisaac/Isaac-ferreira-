@@ -1,8 +1,8 @@
 Óla! Eu sou o Isaac Ferreira
 
-- 📒 Estou cursando superior de tecnologia em análise e desenvolvimento de sistemas, na universidade Anhanguera 
-- 📲 Estudo tambem no site "Curso em video" com o professor Guanabara 
-- 🗣️ Pronomes: ele/dele
+-  Estou cursando superior de tecnologia em análise e desenvolvimento de sistemas, na universidade Anhanguera 
+-  Estudo tambem no site "Curso em video" com o professor Guanabara 
+-  Pronomes: ele/dele
 
 <div>
 
