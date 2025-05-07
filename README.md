@@ -25,6 +25,6 @@
 <div>
 <a href="https://discord.com/channels/1336068572929069146/1336068572966813813" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
-<a href=" " target="_blank"><img src=" "></a> 
+<a href=" " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "></a> 
 <img aling="rigth" alt="Isaac.Eu" src="https://github.com/user-attachments/assets/d8fed196-e34a-4e5a-b894-9bd6413785ce">
 </div>
