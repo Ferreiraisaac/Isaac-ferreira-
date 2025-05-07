@@ -14,7 +14,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Isaac.Js" height="48" src="https://raw.githubusercontent.com/devicons/javascript/javascript-plain.svg">
+<img align="center" alt="Isaac.Js" height="38" widht="48" src="https://raw.githubusercontent.com/devicons/javascript/javascript-plain.svg">
 <img align="center" alt="Isaac.Js" height="48" src=" ">
 <img align="center" alt="Isaac.Js" height="48" src=" ">
 </div>
