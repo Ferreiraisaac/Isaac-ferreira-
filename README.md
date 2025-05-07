@@ -3,7 +3,7 @@
 -  Estou cursando superior de tecnologia em análise e desenvolvimento de sistemas, na universidade Anhanguera 
 -  Estudo tambem no site "Curso em video" com o professor Guanabara 
 -  Pronomes: ele/dele
-
+  <a href="https://git.io/typing-svg">
 <div>
 
 <a href="https://github.com/Ferreiraisaac/Isaac-ferreira-/edit/main/README.md ">
