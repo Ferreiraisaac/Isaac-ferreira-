@@ -9,7 +9,7 @@
 <a href="https://github.com/Ferreiraisaac/Isaac-ferreira-/edit/main/README.md ">
 <img heigth="188em" src="https://github-readme-stats.vercel.app/api?username=IsaacFerreira&show_icons=true&bg_color=00000000"/>
 <img heigth="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFerreira&layout=compact&langs_count-16&theme=dracula" />
-<img aling="rigth" alt="Eu-isaac" src="https://github.com/user-attachments/assets/33eda1a5-3f27-4319-86fe-aadea3fdf181/h1.gif">
+
 
 
 </div>
@@ -18,6 +18,8 @@
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Isaac.Js" height="38" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img aling="rigth" alt="Isaac.Eu" src="![Untitled ‑ Made with FlexClip (3)](https://github.com/user-attachments/assets/a34bfa47-3003-4b0d-9595-70d1ca9de7ce)
+ ">
 </div>
 
 ##
